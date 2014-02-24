@@ -9,7 +9,7 @@ import android.view.Menu;
 public class MainActivity extends Activity {
 	GraphicalView mChartView;
 
-	// 111
+	// 111asdfasdf
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
